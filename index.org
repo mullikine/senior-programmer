@@ -1,2 +1,6 @@
 #+BRAIN_CHILDREN: How%20Senior%20Programmers%20ACTUALLY%20Write%20Code
 
+create a document like this to demonstrate that I have actually studied
+how to cooperate with other developers, then I can use that document to
+back up my decisions against management
+
