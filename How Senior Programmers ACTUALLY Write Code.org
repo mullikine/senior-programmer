@@ -1,0 +1,19 @@
+#+BRAIN_PARENTS: index
+
+[[https://www.youtube.com/watch?v=oJbfMBROEO0][How Senior Programmers ACTUALLY Write Code - YouTube]]
+
+* habits
+  :PROPERTIES:
+  :ID:       057d1c59-3c61-4aef-9e88-e97bc7b9dabd
+  :END:
+
+- Complete your work before moving on
+- Enforce coding standards
+- Documenting patterns
+- Review new patterns
+  - I guess this means
+- Never create a user story or ticket that represents refactoring
+  - https://youtu.be/oJbfMBROEO0?t=587
+  - Prevent management from making bad decisions that will tank their project, whether that's from:
+    - Technical debt
+    - Not delivering stuff that can be extended an the project evolves
